@@ -1,3 +1,14 @@
+/*
+    REGRAS JS
+    
+    1. Não podemos criar variáveis com palavras reservadas
+    2. Variáveis precisam ter nomes significativos
+    3. Não podem começar o nome de uma variável com um número
+    4. Não podem conter espaços ou traços
+    5. Utilizamos camelCase
+    6. Case-Sensitive
+*/
+
 let nome = 'Vinicius';
 
 console.log(nome, 'nasceu em 1988');
