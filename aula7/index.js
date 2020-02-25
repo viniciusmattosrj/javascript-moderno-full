@@ -12,3 +12,5 @@
 */
 
 const nome = 'Vinicius';
+
+console.log(nome);
