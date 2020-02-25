@@ -8,6 +8,7 @@
     5. Utilizamos camelCase
     6. Case-Sensitive
     7. Não podemos re-declarar variáveis com let
+    8. Não utilize var, utilize let
 */
 
 let nome = 'Vinicius';
