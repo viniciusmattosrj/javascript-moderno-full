@@ -7,6 +7,7 @@
     4. Não podem conter espaços ou traços
     5. Utilizamos camelCase
     6. Case-Sensitive
+    7. Não podemos re-declarar variáveis com let
 */
 
 let nome = 'Vinicius';
