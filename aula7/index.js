@@ -15,7 +15,7 @@ const nome = 'Vinicius';
 console.log(nome);
 
 
-const primeiroNumero = '5';
+const primeiroNumero = 5;
 const segundoNumero = 10;
 const resultado = primeiroNumero * segundoNumero;
 console.log(resultado);
@@ -28,7 +28,7 @@ console.log(resultadoTriplicado);
 
 /* Aqui só concateno não realizo a soma */
 resultadoTriplicado = resultadoTriplicado + 5; 
-console.log(primeiroNumero + segundoNumero);
+console.log(typeof (primeiroNumero + segundoNumero));
 
 console.log(typeof(primeiroNumero));
 console.log(typeof segundoNumero);
