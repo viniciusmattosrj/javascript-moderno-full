@@ -16,3 +16,7 @@ console.log(num3.toFixed(2));
 
 /* Verificando se o valor de entrada */
 console.log(Number.isInteger(num1));
+
+/* Verificando se o resultado da conta é NaN */
+let auxiliar = num1 * 'Olá';
+console.log(Number.isNaN(auxiliar));
