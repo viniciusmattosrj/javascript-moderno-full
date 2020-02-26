@@ -25,3 +25,6 @@ console.log(resultadoDuplicado);
 
 let resultadoTriplicado = resultado * 3;
 console.log(resultadoTriplicado);
+
+console.log(typeof(primeiroNumero));
+console.log(typeof segundoNumero );
