@@ -9,7 +9,7 @@ const ultimoNome = `Silva`;
 const idade = 32;
 const altura = 1.86;
 
-/* Undefined = não aponta para local nenhuma na memoria. */
+/* Undefined = não inializa e não aponta para local nenhuma na memoria. */
 let nomeAluno;
 
 /* Null = não aponta para local nenhuma na memoria. */
