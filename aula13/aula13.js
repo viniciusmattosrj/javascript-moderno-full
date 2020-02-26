@@ -1,6 +1,6 @@
 /*  String são indexadas */
 
-let umaString = "Um texto";
+let umaString = "O rato roeu a roupa do rei de roma";
 console.log(umaString.charAt(4));
 
 // Exbindo o código referente ao número informado 
@@ -19,7 +19,17 @@ console.log(umaString.match(/[a-z]/g));
 console.log(umaString.search(/x/));
 
 // Realizando o replace em uma string
-console.log(umaString.replace(/Um/, 'Outra'));
+console.log(umaString.replace(/rato/, 'Outra'));
 
 // Capturando comprimenro de uma string
 console.log(umaString.length);
+
+/* Equivalente ao length */
+console.log(umaString.substring(umaString.length -5, umaString -1));
+
+/* Quebrando uma string nos espaços */
+console.log(umaString.split(' '));
+
+/* Manipulando a string para Maiúscula vs Minúscula */
+console.log(umaString.toLocaleLowerCase());
+console.log(umaString.toLocaleUpperCase());
