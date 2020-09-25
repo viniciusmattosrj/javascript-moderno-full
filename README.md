@@ -15,9 +15,8 @@ Este é um curso de Javascript ES6+ Full Stack - front-end e back-end - Node, Ex
 
 
 ## Instalação
-
-Só realizar o git clone do projeto e ser feliz
-```bash
+Navege até dentro da pasta projetos e realize o git clone do projeto:
+```
 git clone git@github.com:viniciusmattosrj/javascript-moderno-full.git
 ```
 Para que o git não considere alterações de permissão como modificações a serem rastreadas, execute:
