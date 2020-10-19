@@ -5,24 +5,13 @@ Este é um curso de Javascript ES6+ Full Stack - front-end e back-end - Node, Ex
 
 ## Requerimentos
 
-- Install <a href="#">NVM</a>
-
-- Install <a href="#">NodeJS</a>
-
-- Install <a href="#">NPM</a>
-
+- Node &ge; 10.15.*
+- Npm &ge; 6.14.*
 - Install <a href="#">React</a>
 
+### Instalação
 
-## Instalação
-Navege até dentro da pasta projetos e realize o git clone do projeto:
-```
-git clone git@github.com:viniciusmattosrj/javascript-moderno-full.git
-```
-Para que o git não considere alterações de permissão como modificações a serem rastreadas, execute:
-```
-git config core.fileMode false
-```
+Para instalação verifique **[installation documentation](docs/installation.md)**.
 
 ## Contribuições
 Caso identifique pontos
